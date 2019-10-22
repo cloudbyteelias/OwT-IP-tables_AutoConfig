@@ -68,7 +68,7 @@ EOF
 
     ping(){
         #Permite Ping
-        iptables -A INPUT -p icmp --icmp-type echo-request -j REJECTDigite uma mensagem
+        iptables -A INPUT -p icmp --icmp-type echo-request -j REJECT
     }
 
 portas(){
