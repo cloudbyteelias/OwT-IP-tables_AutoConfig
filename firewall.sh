@@ -1,4 +1,5 @@
 #!/bin/bash
+#Elias de jesus moraes firewall simples que uso no meu dia a dia 
 ###################
 #Inserir portas para liberação (separar portas por ; )
 PORTAS_TCP=""
