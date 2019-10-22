@@ -30,7 +30,7 @@ NC='\033[0m'
                                                                      
       
 EOF
-        banner "INTELIGE - Firewall Básico" 
+        banner "cloudbyteelias - Firewall Básico" 
         echo -e "${VERMELHO}"
     }
 
